@@ -1,1 +1,0 @@
-Needed if you want to host it on wordpress.org
